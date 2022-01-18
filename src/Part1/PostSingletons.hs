@@ -1,4 +1,4 @@
-module PostSingletons where
+module Part1.PostSingletons where
 
 import Data.Singletons.TH (genSingletons)
 

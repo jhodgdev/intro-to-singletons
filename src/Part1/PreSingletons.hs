@@ -1,4 +1,4 @@
-module PreSingletons where
+module Part1.PreSingletons where
 
 import Data.Kind (Type)
 
